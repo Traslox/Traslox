@@ -3,8 +3,9 @@ C# software programmer.
 For communication:
 
 ![Discord_logo_new svg](https://github.com/Traslox/Traslox/assets/107253054/a449d3e9-0890-45e6-9027-1abaa5f84dfc)
-[Discord addres](https://discord.com/users/1115498292630003773), 
-[Mail adress](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZNwjQchdfBcMsQGPqzGCCFNkCdPTRtjwFWRVzFvhRrrwzlFglGjtFzlcnmScbmJtflxWL)
+[Discord](https://discord.com/users/1115498292630003773),  
+![indir](https://github.com/Traslox/Traslox/assets/107253054/b7da4c79-38a1-405c-9df4-2575169b7e67)
+[Mail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZNwjQchdfBcMsQGPqzGCCFNkCdPTRtjwFWRVzFvhRrrwzlFglGjtFzlcnmScbmJtflxWL)
 
 
 <!---
