@@ -6,6 +6,11 @@ For communication:
 ![indir](https://github.com/Traslox/Traslox/assets/107253054/b7da4c79-38a1-405c-9df4-2575169b7e67)
 [Mail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZNwjQchdfBcMsQGPqzGCCFNkCdPTRtjwFWRVzFvhRrrwzlFglGjtFzlcnmScbmJtflxWL)
 
+Social Medias:
+![YouTube_full-color_icon_(2017) s](https://github.com/Traslox/Traslox/assets/107253054/eddeaa64-3b3d-4fce-aba0-4f9444685ae1)
+[](https://www.youtube.com/@Traslox/featured)
+
+
 
 <!---
 Traslox/Traslox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
