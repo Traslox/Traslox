@@ -2,7 +2,7 @@ C# software programmer.
 
 For communication:
 
-![resim_2023-07-09_011352347](https://github.com/Traslox/Traslox/assets/107253054/ddf18764-900c-4f1e-8309-26f4a8230735)
+![Discord_logo_new svg](https://github.com/Traslox/Traslox/assets/107253054/a449d3e9-0890-45e6-9027-1abaa5f84dfc)
 [Discord addres](https://discord.com/users/1115498292630003773), 
 [Mail adress](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZNwjQchdfBcMsQGPqzGCCFNkCdPTRtjwFWRVzFvhRrrwzlFglGjtFzlcnmScbmJtflxWL)
 
