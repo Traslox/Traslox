@@ -8,7 +8,7 @@ For communication:
 
 Social Medias:
 ![YouTube_full-color_icon_(2017) s](https://github.com/Traslox/Traslox/assets/107253054/eddeaa64-3b3d-4fce-aba0-4f9444685ae1)
-[](https://www.youtube.com/@Traslox/featured)
+[Youtube](https://www.youtube.com/@Traslox/featured)
 
 
 
