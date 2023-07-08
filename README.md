@@ -1,8 +1,8 @@
 For communication:
 
-[Discord](https://discord.com/users/1115498292630003773)
+[Discord addres](https://discord.com/users/1115498292630003773)
 
-[Mail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZNwjQchdfBcMsQGPqzGCCFNkCdPTRtjwFWRVzFvhRrrwzlFglGjtFzlcnmScbmJtflxWL)
+[Mail adress](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZNwjQchdfBcMsQGPqzGCCFNkCdPTRtjwFWRVzFvhRrrwzlFglGjtFzlcnmScbmJtflxWL)
 
 
 <!---
