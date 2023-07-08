@@ -1,7 +1,9 @@
 C# software programmer.
 
 Hi, I am Traslox.
+
 Hallo, Ich heiße Traslox.
+
 Merhaba, ben Traslox.
 
 I know enough English to communicate. I am new in german but I still learning.
