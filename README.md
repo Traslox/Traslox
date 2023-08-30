@@ -1,4 +1,5 @@
 C# software programmer.
+Still learning unity and sql.
 
 Hi, I am Traslox.
 
