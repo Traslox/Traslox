@@ -9,7 +9,7 @@ Merhaba, ben Traslox.
 
 I know enough English to communicate. I am new to german but I still learning.
 I'm trying to still alive in Erdogan's Turkey. I corrupted my mental health (It's just joke).
-Microsoft Edge steals my ideas on my projects, It would be easier if they just asked me.
+Microsoft Edge steals my projects, It would be easier if they just asked me.
 But despite all this, I'm still ok.
 
 For communication:
