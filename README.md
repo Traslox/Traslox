@@ -1,11 +1,13 @@
 C# software programmer.
 Still learning unity and sql.
 
-Hi, I am Traslox.
+Hi, I am Traslox. I'm studying in highschool.
 
-Hallo, Ich heiße Traslox.
+Hallo, Ich heiße Traslox. Ich studiere in der Oberstufe.
 
-Merhaba, ben Traslox.
+Merhaba, ben Traslox. Lisede okuyorum.
+
+
 
 For communication:
 ![Discord_logo_new svg](https://github.com/Traslox/Traslox/assets/107253054/a449d3e9-0890-45e6-9027-1abaa5f84dfc)
