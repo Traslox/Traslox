@@ -7,11 +7,6 @@ Hallo, Ich heiße Traslox.
 
 Merhaba, ben Traslox.
 
-I know enough English to communicate. I am new to german but I still learning.
-I'm trying to still alive in Erdogan's Turkey. I corrupted my mental health (It's just joke).
-Microsoft Edge steals my projects, It would be easier if they just asked me.
-But despite all this, I'm still ok.
-
 For communication:
 ![Discord_logo_new svg](https://github.com/Traslox/Traslox/assets/107253054/a449d3e9-0890-45e6-9027-1abaa5f84dfc)
 [Discord](https://discord.com/users/1115498292630003773)
