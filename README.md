@@ -1,3 +1,4 @@
+Computer Programmer
 ![Csharp](https://github.com/Traslox/Traslox/assets/107253054/158dac22-107b-4ebb-aa5a-dbbb6e3dd479)
 
 [(Social Medias)](https://linktr.ee/Traslox)
