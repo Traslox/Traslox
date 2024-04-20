@@ -2,7 +2,7 @@ C# software programmer.
 
 Hi, I am Traslox. I'm studying in highschool.
 
-[Social Medias]((https://linktr.ee/Traslox))
+[(Social Medias)](https://linktr.ee/Traslox)
 
 
 
