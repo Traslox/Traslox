@@ -1,4 +1,4 @@
-![Csharp](https://github.com/Traslox/Traslox/assets/107253054/bd4d7630-2e4e-4b0f-a21e-065b40e287a1)
+
 
 [(Social Medias)](https://linktr.ee/Traslox)
 
