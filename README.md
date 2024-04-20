@@ -1,6 +1,7 @@
 Computer Programmer:
 
-![Csharp](https://github.com/Traslox/Traslox/assets/107253054/158dac22-107b-4ebb-aa5a-dbbb6e3dd479)![Sql_data_base_with_logo](https://github.com/Traslox/Traslox/assets/107253054/983de67f-738d-435c-8124-ef02626c9869)
+![Logo_C_sharp svg (1)](https://github.com/Traslox/Traslox/assets/107253054/34079492-f5a5-4388-b31a-5a5fe0d84dcc)![Sql_data_base_with_logo](https://github.com/Traslox/Traslox/assets/107253054/fee75f6b-bd59-494b-a6f1-8aa3b0842d84)![Unity_2021 svg](https://github.com/Traslox/Traslox/assets/107253054/44f98677-9278-4a70-bbcf-addf270e6208)
+
 
 
 
