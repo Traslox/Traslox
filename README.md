@@ -4,7 +4,9 @@
 
 [Social Medias](https://linktr.ee/Traslox)
 
-# TCS 2
+# What is new?
+
+TCS 2
 
 ![TCS 2 Reklam Gif](https://github.com/Traslox/Traslox/assets/107253054/ebb548a1-131e-4ea1-9a75-6d44d9ec7f56)
 
