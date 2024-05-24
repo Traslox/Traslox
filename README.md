@@ -1,9 +1,3 @@
-# Computer Programmer
-
-![Logo_C_sharp svg](https://github.com/Traslox/Traslox/assets/107253054/40ed7c19-8add-4e2b-88e3-251c8cce2afe)![Sql_data_base_with_logo](https://github.com/Traslox/Traslox/assets/107253054/d9241234-2a77-4181-a924-6f94dfd92838)
-
-My offical [Social Medias](https://linktr.ee/Traslox)
-
 # What is new?
 
 ![TCS 2 Reklam Gif](https://github.com/Traslox/Traslox/assets/107253054/ebb548a1-131e-4ea1-9a75-6d44d9ec7f56)
