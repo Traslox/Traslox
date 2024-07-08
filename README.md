@@ -1,6 +1,6 @@
 # What is new?
 
-https://github.com/Traslox/Yahoo-Mail-App
+https://github.com/Traslox/TAssistant
 
 
 <!---
