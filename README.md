@@ -2,7 +2,7 @@
 
 [Contact with support](https://discord.com/users/1115498292630003773)
 
-# Recommanded Sofwares
+# Recommended Sofwares
 
 [Taskbar groups](https://github.com/tjackenpacken/taskbar-groups)
 
