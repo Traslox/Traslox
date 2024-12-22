@@ -10,7 +10,7 @@
 
 # Recommended Softwares
 
-## NOVEMBER 2024
+### NOVEMBER 2024
 
 [Taskbar groups](https://github.com/tjackenpacken/taskbar-groups)
 
