@@ -16,6 +16,21 @@
 
 [Lightshot](https://app.prntscr.com/)
 
+[EarTrumpet](https://apps.microsoft.com/detail/9NBLGGH516XP?hl=tr-tr&gl=TR&ocid=pdpshare)
+
+[Hotspot VPN](https://apps.microsoft.com/detail/9WZDNCRDFNG7?hl=tr&gl=TR&ocid=pdpshare)
+
+[OneNotes](https://apps.microsoft.com/detail/XPFFZHVGQWWLHB?hl=tr&gl=TR&ocid=pdpshare)
+
+[Translator](https://apps.apple.com/app/id1018949559)
+
+[MS Authenticator](https://apps.apple.com/app/id983156458)
+
+[Edge](https://apps.apple.com/app/id1288723196)
+
+[SwiftKey Keyboard](https://apps.apple.com/app/id911813648)
+
+[Yahoo Mail](https://apps.apple.com/app/id577586159)
 <!---
 Traslox/Traslox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
