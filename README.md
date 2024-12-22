@@ -1,4 +1,4 @@
-# Hello, Traslox here! I am software programmer and game developer 👋
+# Hello, Traslox here! I am software programmer and game developer
 
 ### Here is my about me, if you want to.
 
