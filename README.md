@@ -1,10 +1,16 @@
-# Links
+## Hello, Traslox here! I am software programmer and game developer 👋
 
-[Contact with support](https://discord.com/users/1115498292630003773)
+Here is my about me, if you want to.
 
-# Recommended Sofwares
+# Links:
+- [Contact with support](https://discord.com/users/1115498292630003773)
+- [Youtube](www.youtube.com/@Traslox)
+- [Discord Server](discord.gg/66fyz9Ugs4)
+- [Bluesky](https://bsky.app/profile/traslox.bsky.social)
 
-NOVEMBER 2024
+## Recommended Softwares
+
+# NOVEMBER 2024
 
 [Taskbar groups](https://github.com/tjackenpacken/taskbar-groups)
 
