@@ -39,6 +39,30 @@
 [SwiftKey Keyboard](https://apps.apple.com/app/id911813648)
 
 [Yahoo Mail](https://apps.apple.com/app/id577586159)
+
+# Recommended Extentions
+
+### NOVEMBER 2024
+
+[7TV](https://chromewebstore.google.com/detail/7tv/ammjkodgmmoknidbanneddgankgfejfh?hl=tr)
+
+[Stream Cleaner](https://chromewebstore.google.com/detail/ak%C4%B1%C5%9F-temizleyici/lehcglgkjkamolcflammloedahjocbbg?hl=tr)
+
+[Search GPT](https://chromewebstore.google.com/detail/chatgpt-search/ejcfepkfckglbgocfkanmcdngdijcgld?hl=tr)
+
+[Imagus](https://chromewebstore.google.com/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=tr)
+
+[Popup Window](https://chromewebstore.google.com/detail/popup-window/nnlippelgfbglbhiccffmnmlnhmbjjpe?hl=tr)
+
+[Save image as Type](https://chromewebstore.google.com/detail/save-image-as-type/gabfmnliflodkdafenbcpjdlppllnemd?hl=tr)
+
+[Redditsave](https://chromewebstore.google.com/detail/video-downloader-for-redd/hhienkkjhkcdeaolmcniloflgpjhdefi?hl=tr)
+
+[Volume Master](https://chromewebstore.google.com/detail/volume-master-ses-denetle/jghecgabfgfdldnmbfkhmffcabddioke?hl=tr)
+
+[Youtube SponsorBlock](https://chromewebstore.google.com/detail/youtube-i%C3%A7in-sponsorblock/mnjggcdmjocbbbhaepdhchncahnbgone?hl=tr)
+
+[uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=tr)
 <!---
 Traslox/Traslox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
