@@ -40,8 +40,6 @@
 
 [SwiftKey Keyboard](https://apps.apple.com/app/id911813648)
 
-[Yahoo Mail](https://apps.apple.com/app/id577586159)
-
 # Recommended Extentions
 
 ### NOVEMBER 2024
