@@ -63,6 +63,8 @@
 [Youtube SponsorBlock](https://chromewebstore.google.com/detail/youtube-i%C3%A7in-sponsorblock/mnjggcdmjocbbbhaepdhchncahnbgone?hl=tr)
 
 [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=tr)
+
+[Privacy Redirect](https://chromewebstore.google.com/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb?hl=tr)
 <!---
 Traslox/Traslox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
