@@ -48,8 +48,6 @@
 
 [Stream Cleaner](https://chromewebstore.google.com/detail/ak%C4%B1%C5%9F-temizleyici/lehcglgkjkamolcflammloedahjocbbg?hl=tr)
 
-[Search GPT](https://chromewebstore.google.com/detail/chatgpt-search/ejcfepkfckglbgocfkanmcdngdijcgld?hl=tr)
-
 [Imagus](https://chromewebstore.google.com/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=tr)
 
 [Popup Window](https://chromewebstore.google.com/detail/popup-window/nnlippelgfbglbhiccffmnmlnhmbjjpe?hl=tr)
