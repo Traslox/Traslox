@@ -64,7 +64,7 @@
 
 [Privacy Redirect](https://chromewebstore.google.com/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb?hl=tr)
 
-# Recommended Discod Bots
+# Recommended Discord Bots
 
 ### JANUARY 2025
 
