@@ -30,7 +30,7 @@
 
 [OneNotes](https://apps.microsoft.com/detail/XPFFZHVGQWWLHB?hl=tr&gl=TR&ocid=pdpshare)
 
-## Iphone:
+#### Iphone:
 
 [Translator](https://apps.apple.com/app/id1018949559)
 
@@ -63,6 +63,32 @@
 [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=tr)
 
 [Privacy Redirect](https://chromewebstore.google.com/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb?hl=tr)
+
+# Recommended Discod Bots
+
+### JANUARY 2025
+
+[DisPİng](https://discord.com/application-directory/1027401268227997778)
+
+[Free Stuff](https://discord.com/application-directory/672822334641537041)
+
+[Sx Bot](https://discord.com/application-directory/696870234262339614)
+
+[Trovo Notify](https://discord.com/application-directory/918878224405131314)
+
+[Readybot.io](https://discord.com/application-directory/976478213209468978)
+
+[EasyRadio](https://discord.com/application-directory/785321019699101696)
+
+[Bookmarker](https://discord.com/application-directory/935447281929449532)
+
+[Gemini](https://discord.com/application-directory/898326398257750096)
+
+[Translator](https://discord.com/application-directory/1041482765520076880)
+
+[SteamDB](https://discord.com/application-directory/780077279857868833)
+
+[RePlay](https://discord.com/application-directory/1029883366583046205)
 <!---
 Traslox/Traslox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
