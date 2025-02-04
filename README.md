@@ -4,4 +4,3 @@
 
 ## Links:
 - [Youtube](www.youtube.com/@Traslox)
-- [Bluesky](https://bsky.app/profile/traslox.bsky.social)
