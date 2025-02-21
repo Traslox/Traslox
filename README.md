@@ -1,3 +1,3 @@
 # Hello, Traslox here!
 
-### I am software programmer and game developer.
+### I'm a software programmer and game developer.
