@@ -14,7 +14,5 @@
 ## Other Skills:
 ### B2 level English
 ### Native Turkish
-### German
-### Latin
-### Russian
-### Polish
+### Programming in Windows 10 and after versions.
+### Programming in Debian based on Linux Distros.
