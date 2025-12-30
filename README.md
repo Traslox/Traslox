@@ -2,15 +2,15 @@
 
 ## About me:
 ### C#
-### C++ (Currently learning)
+### C (Currently learning)
 ### Java (Currently learning)
 ### Arduino
-### JSON
-### Microsoft SQL
+### Python
 ### VS code
 ### VS Community
+### Pycharm
 ### IntelliJ (Currently learning)
-### Unreal Engine (Currently learning)
+### Godot Engine (Currently learning)
 
 ## Other Skills:
 ### IELTS Academic 6.0 (2024-2025)
