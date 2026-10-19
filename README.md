@@ -3,14 +3,13 @@
 ## About me:
 ### C#
 ### C (Currently learning)
-### Java (Currently learning)
+### Java
 ### Arduino
 ### Python
-### VS code
-### VS Community
-### Pycharm
-### IntelliJ (Currently learning)
-### Godot Engine (Currently learning)
+### Assembly
+### C++ (Currently learning)
+### Scala (Currently learning)
+### R Language (Currently learning)
 
 ## Other Skills:
 ### IELTS Academic 6.0 (2024-2025)
